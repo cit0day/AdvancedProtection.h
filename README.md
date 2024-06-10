@@ -18,10 +18,10 @@ This header file provides advanced anti-debugging and anti-cracking techniques f
 
 ## Usage
 
-Include the `AdvancedAntiDebug.h` header file in your C++ project to use these anti-debugging techniques.
+Include the `AdvancedProtection.h` header file in your C++ project to use these anti-debugging techniques.
 
 ```cpp
-#include "AdvancedAntiDebug.h"
+#include "AdvancedProtection.h"
 
 int main() {
     if (PerformAntiDebugChecks()) {
